@@ -1,7 +1,7 @@
 Hi 👋 My name is Crystal Mercier
 ================================
 
-Security Researcher
+Security Consultant
 -------------------
 
 I am passionate about Cyber Security and my goal is to give back to this amazing community by sharing the best resources that I come across or build myself on my own learning journey.
